@@ -1,0 +1,17 @@
+ext {
+    versions = [
+            // mod deps
+            neoforge: project.neo_version,
+            commons : "1.0.3-SNAPSHOT",
+            // utility deps
+            lombok  : "1.18.36",
+    ]
+
+    libs = [
+            // mod deps
+            neoforge: "net.neoforged:neoforge:${versions.neoforge}",
+            commons : "net.dovahkiinforged:dovahkiin-forged-commons:${versions.commons}",
+            // utility deps
+            lombok  : "org.projectlombok:lombok:${versions.lombok}",
+    ]
+}
