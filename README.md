@@ -1,4 +1,9 @@
 # [NeoForge] Dovahkiin: Forged
+![Release](https://img.shields.io/github/v/release/DylanBulmer/dovahkiin-forged-neoforge?display_name=release&style=flat-square)
+![Build Status](https://img.shields.io/github/actions/workflow/status/DylanBulmer/dovahkiin-forged-neoforge/build.yml?style=flat-square)</br>
+[![Buy me a coffee](https://img.shields.io/badge/-Buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee&style=flat-square)](https://buymeacoffee.com/dylanbulmer)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/DylanBulmer?style=flat-square&label=GitHub%20Sponsors&color=%23ff4444)](https://github.com/sponsors/DylanBulmer)
+
 **Java:** `21` **NeoForge:** `21.0.167` **MC:** `1.21`
 
 ---
