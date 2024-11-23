@@ -2,7 +2,7 @@ ext {
     versions = [
             // mod deps
             neoforge: project.neo_version,
-            commons : "1.0.3-SNAPSHOT",
+            commons : "1.0.4-SNAPSHOT",
             // utility deps
             lombok  : "1.18.36",
     ]
