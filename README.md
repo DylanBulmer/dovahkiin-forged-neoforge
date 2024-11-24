@@ -14,7 +14,7 @@ to reality.
 > project. All we ask is that you are respectful of our time! :smile:
 >
 > Thank you, </br>
-> The Docahkiin: Forged Team :heart:
+> The Dovahkiin: Forged Team :heart:
 
 
 ## Previous work
